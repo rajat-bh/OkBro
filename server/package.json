@@ -1,0 +1,20 @@
+{
+  "name": "okbro-server",
+  "version": "0.0.1",
+  "description": "This is the server / backend for the okbro chat application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Chat",
+    "ChatApp",
+    "ChatWebApp",
+    "OkBro"
+  ],
+  "author": "rajat_bh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
